@@ -2,7 +2,7 @@
 
 # Usage
 ```sh
- $ python youtube.py [visits] [youtubeLinks.txt] [minWatch] [maxWatch]
+ $ python youtube.py 500 https://www.youtube.com/watch?v=E5C-FqZt5rY&t=79s.txt 10 18
  ```
 
 # Help
