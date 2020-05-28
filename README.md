@@ -2,9 +2,7 @@
 
 # Usage
 ```sh
- $ python youtube.py [visits] [youtubeLinks.txt] [minWatch] [maxWatch]
- ```
-
+python youtube.py 1000  https://youtu.be/QH1IO8KHhNA.txt 10 20
 # Help
  - **visits** The amount of visits per video
  - **youtubeLinks** The file that contains the Youtube links; one link per line
