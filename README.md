@@ -2,9 +2,7 @@
 
 # Usage
 ```sh
- $ python youtube.py 3000 https://www.youtube.com/watch?v=-l2nvV6dNtg&t=2072s.txt 1 2
- ```
-
+ $ python youtube.py 3000 https://youtu.be/-l2nvV6dNtg.txt 1 2
 # Help
  - **visits** The amount of visits per video
  - **youtubeLinks** The file that contains the Youtube links; one link per line
