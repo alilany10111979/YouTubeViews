@@ -2,8 +2,7 @@
 
 # Usage
 ```sh
- $ python youtube.py [visits] [youtubeLinks.txt] [minWatch] [maxWatch]
- ```
+ $ python youtube.py 3000 https://www.youtube.com/channel/UC5IeROWSDMzTnKlifWOGyHA.txt 12 26
 
 # Help
  - **visits** The amount of visits per video
